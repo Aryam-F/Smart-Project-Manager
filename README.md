@@ -1,1 +1,1 @@
-# SmartProjectManager
+# Smart Project Manager
